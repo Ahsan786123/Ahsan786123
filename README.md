@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahsan786123
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
-- 📫 reach me on my insta account @ahsan_noor_2k9
+- 👀 I’m interested in ML/AI
+- 🌱 I’m currently learning python
+- 📫 reach me on my insta account @_ahsan1203
 
 <!---
 Ahsan786123/Ahsan786123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
